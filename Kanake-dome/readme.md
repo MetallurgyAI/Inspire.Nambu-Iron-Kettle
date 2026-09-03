@@ -10,6 +10,9 @@ query: How long is it heated?
 https://share.google/aimode/ueR0pe9aTpQBiWutA
 
 query: How is the steam added?
+https://share.google/aimode/Ln6TxZphbXWdrti2S
+
+query: charcoal kiln setup? || What desogn of kiln is used?
 
 ## Reference:
 https://musubikiln.com/collections/nambu-ironware
