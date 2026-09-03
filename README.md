@@ -1,7 +1,9 @@
 # Inspire.Nambu-Iron-Kettle
 https://www.google.com/search?q=Nambu+iron+kettle
 
-https://youtu.be/-wzICVgKo2s 
+## Guide:
+https://youtu.be/-wzICVgKo2s
+https://japanobjects.com/features/nambu
 
 # Relation:
 https://www.google.com/search?q=red+versus+black+rust
